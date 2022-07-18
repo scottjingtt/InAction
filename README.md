@@ -21,12 +21,14 @@ Implementation of the ECCV work "InAction" for interpretable driving behavior pr
 - Single-label Benchmarks (PSI)
 
 > Driving action prediction: Accuracy \& Class-wise average accuracy
+> 
 > Explanation: F1 score \& Class-wise average F1 score
 
 
 - Multiple-label Benchmarks (BDD-OIA)
 
 > Driving action prediction: F1 score \& Class-wise average F1 score
+> 
 > Explanation: F1 score \& Class-wise average F1 score
 
 
